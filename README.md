@@ -54,8 +54,8 @@
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
 | **2024.04 - .05** | **NowDoBoss** | [**빅데이터 분석 기반 창업 지원 서비스**]() |
-| **2024.02 - .03** | **ForMyBaby** | [**실시간 우리 아이 지킴이 서비스**]() |
-| **2024.01 - .02** | **TodakTodak** | [**커스텀한 AI 목소리를 통한 자기계발 플래너 서비스**]() | 
+| **2024.02 - .03** | **ForMyBaby** | [**실시간 우리 아이 지킴이 서비스**](https://github.com/I-M5K/ForMyBaby) |
+| **2024.01 - .02** | **TodakTodak** | [**커스텀한 AI 목소리를 통한 자기계발 플래너 서비스**](https://github.com/TodakTodak-ssafy/TodakTodak) | 
 | **2022.09 - .12** | **NUGU-FRESH** | [**스마트 스피커 기반 신선배송 제품 가격 비교 및 예측 서비스**](https://github.com/orgs/nugu-fresh/repositories) |
 
 
